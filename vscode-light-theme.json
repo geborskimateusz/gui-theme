@@ -1,0 +1,14 @@
+{
+ "window.zoomLevel":-1,
+ "javascript.updateImportsOnFileMove.enabled":"never",
+ "typescript.updateImportsOnFileMove.enabled":"never",
+ "go.formatTool":"goimports",
+ "workbench.colorTheme":"Solarized Light",
+ "diffEditor.ignoreTrimWhitespace":false,
+ "javascript.format.semicolons":"insert",
+ "editor.formatOnSave":true,
+ "[typescript]":{
+	 "editor.defaultFormatter":"vscode.typescript-language-features"
+ }
+}
+
